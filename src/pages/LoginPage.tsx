@@ -13,8 +13,8 @@ export const LoginPage = () => {
       </div>
 
       <div className="mt-10">
-       <div className="py-4 bg-gray-800 text-white text-center">로그인</div>
-       <div className="py-4 mt-2 border border-gray-800 text-gray-800 text-center">회원가입</div>
+       <div className="py-4 bg-gray-800 text-white text-center rounded-xl">로그인</div>
+       <div className="py-4 mt-2 border border-gray-800 text-gray-800 text-center rounded-xl">회원가입</div>
       </div>
 
     </div>
